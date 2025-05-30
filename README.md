@@ -12,7 +12,7 @@
   <img 
     src="https://static.vecteezy.com/system/resources/thumbnails/026/691/419/small_2x/ai-microchip-icon-isolated-ai-support-in-business-and-artificial-intelligence-technology-concept-3d-render-illustration-png.png" 
     alt="Logo Agente"
-    width="300px"
+    width="280px"
   />
 </p>
 
