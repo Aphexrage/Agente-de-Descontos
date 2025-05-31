@@ -18,7 +18,6 @@ class AgenteEmail:
         )
         self.cursor = self.conn.cursor()
 
-        # Dados de e-mail agora vêm do .env
         self.email_remetente = os.getenv("EMAIL_REMETENTE")
         self.senha_app = os.getenv("SENHA_APP")
 
