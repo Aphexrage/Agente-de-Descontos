@@ -18,7 +18,7 @@
 
 <h1 align="center">🤖 Agente de envio de E-mails</h1>
 
-Esse repositorio contem um sistema Python que manda e-mails para clientes. Ele coleta informações em um banco de dados, mandando um email de desconto de acordo com o tempo desde a última compra.
+Esse repositorio contem um sistema Python que manda e-mails para clientes. Ele coleta informações em um banco de dados, mandando um email de desconto de acordo com informações de clientes.
 
 ##
 
