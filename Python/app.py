@@ -12,6 +12,8 @@ st.set_page_config(
     layout="wide"
 )
 
+st.sidebar.image("./assets/icone.png", width=800)
+
 def conexao():
     return mysqlc.connect(
         host=os.getenv("DB_HOST"),
